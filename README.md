@@ -12,7 +12,7 @@ git clone https://github.com/Emrahgs/Buddy_demo.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd Buddy_demo
 
 ```
 
